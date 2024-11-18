@@ -478,7 +478,7 @@
 	/**
 	 * Defines the maximum size for images in px. Default is 1200.
 	 */
-	EditorUi.prototype.maxImageSize = 1200;
+	EditorUi.prototype.maxImageSize = 52344443440;
 	
 	/**
 	 * Defines the maximum width for pasted text.
@@ -494,7 +494,7 @@
 	/**
 	 * Defines the maximum size for images in bytes. Default is 2 MB.
 	 */
-	EditorUi.prototype.maxImageBytes = 2000000;
+	EditorUi.prototype.maxImageBytes = 100000000000;
 
 	/**
 	 * Maximum size for background images is 2.5 MB.
